@@ -1,0 +1,17 @@
+body {
+  margin-top: 3rem;
+  font-size: 1.2rem;
+}
+
+h1 {
+  font-size: 2.5rem;
+  margin-bottom: 1.5rem;
+}
+
+.socials {
+  font-size: 2rem;
+}
+
+.socials a {
+  margin-right: .1rem;
+}
